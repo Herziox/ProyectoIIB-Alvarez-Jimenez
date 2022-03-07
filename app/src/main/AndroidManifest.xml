@@ -10,6 +10,27 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StandByMe">
         <activity
+            android:name=".RegistrarRAM2"
+            android:exported="false" />
+        <activity
+            android:name=".RegistrarRAM"
+            android:exported="false" />
+        <activity
+            android:name=".MenuRE"
+            android:exported="false" />
+        <activity
+            android:name=".InterfazE"
+            android:exported="false" />
+        <activity
+            android:name=".InterfazAM"
+            android:exported="false" />
+        <activity
+            android:name=".MenuE"
+            android:exported="false" />
+        <activity
+            android:name=".EscogerUsuario"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
